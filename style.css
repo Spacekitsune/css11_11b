@@ -1,0 +1,47 @@
+body {
+    background-color: steelblue;
+}
+h1 {
+    text-transform: uppercase;
+    border: 1px solid lightslategrey;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+img {
+    width: 270px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+span {
+    font-weight: bolder;
+}
+.kortele {
+    background-color: white;
+    margin: auto;
+    width: 300px;
+    padding: 5px 15px 15px 15px;
+    box-shadow: 5px 5px cornflowerblue;
+    box-sizing: border-box;
+     
+}
+.text {
+    border: 1px solid lightslategrey;
+    margin-top: 10px;
+    font-size: 8pt;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 20px;
+    font-family: 'Libre Baskerville', serif;
+    text-align: left;
+    letter-spacing: 0.3px;
+    box-sizing: border-box;
+}
+.italic {
+    font-style: italic;
+}
