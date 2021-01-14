@@ -1,6 +1,7 @@
 body {
     background-color: steelblue;
 }
+
 h1 {
     text-transform: uppercase;
     border: 1px solid lightslategrey;
@@ -11,15 +12,18 @@ h1 {
     padding-left: 10px;
     box-sizing: border-box;
 }
+
 img {
     width: 270px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 span {
     font-weight: bolder;
 }
+
 .kortele {
     background-color: white;
     margin: auto;
@@ -29,6 +33,7 @@ span {
     box-sizing: border-box;
      
 }
+
 .text {
     border: 1px solid lightslategrey;
     margin-top: 10px;
@@ -42,6 +47,7 @@ span {
     letter-spacing: 0.3px;
     box-sizing: border-box;
 }
+
 .italic {
     font-style: italic;
 }
